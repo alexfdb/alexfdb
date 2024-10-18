@@ -1,6 +1,6 @@
 # 
 
-<a href="https://github.com/alexfdb"><img src="header.png" alt="header" style="max-width: 100%; height: auto;"></a>
+<a href="https://github.com/alexfdb" target="_blank"><img src="header.png" alt="header" style="max-width: 100%; height: auto;"></a>
 
 <br>
 
