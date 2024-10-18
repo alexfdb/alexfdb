@@ -1,6 +1,6 @@
-#
+# 
 
-![Header](./github-header-image.png)
+<a href="https://github.com/alexfdb"><img src="header.png" alt="header" style="max-width: 100%; height: auto;"></a>
 
 <br>
 
@@ -8,4 +8,9 @@
 
 <br>
 
-<img src="imagenes\java.png" alt="JAVA" width="50" height="50" style="margin-right: 20px;"> <img src="imagenes\html-5.png" alt="HTML" width="50" height="50" style="margin-right: 20px;"> <img src="imagenes\css-3.png" alt="CSS" width="50" height="50" style="margin-right: 20px;"> <img src="imagenes\js.png" alt="JS" width="50" height="50" style="margin-right: 20px;"> <img src="imagenes\git.png" alt="GIT" width="50" height="50" style="margin-right: 20px;"> <img src="imagenes\sql.png" alt="SQL" width="50" height="50"> 
+<a href="https://www.java.com"><img src="java.png" alt="java" style="width: 60px; height: 55px; margin-right: 20px;"></a> 
+<a href="https://www.w3.org/html/"><img src="html.png" alt="html" style="width: 60px; height: 55px; margin-right: 20px;"></a> 
+<a href="https://www.w3.org/Style/CSS/"><img src="css.png" alt="css" style="width: 60px; height: 55px; margin-right: 20px;"></a> 
+<a href="https://lenguajejs.com"><img src="js.png" alt="js" style="width: 60px; height: 55px; margin-right: 20px;"></a> 
+<a href="https://git-scm.com"><img src="git.png" alt="git" style="width: 60px; height: 55px; margin-right: 20px;"></a> 
+<a href="https://262.ecma-international.org/"><img src="sql.png" alt="sql" style="width: 60px; height: 55px; margin-right: 20px;"></a> 
